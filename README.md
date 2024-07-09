@@ -1,1 +1,6 @@
-# Discord_Login_JSON
+# в поле your_discord_auth_token вписывает токен Discord
+
+# заходим на сайт Discord и открываем окно разработчкиа в браузере -> вкладка Console
+
+# копируем скрипт, вставляем, клац enter и готово
+
